@@ -1,2 +1,2 @@
-# Gobblet-Gobblers-Python-Project
-Projekt realizowany w ramach przedmiotu "Podstawy informatyki i programowania" w edycji 21Z.
+# Gobblet_Gobblers_Ostateczna_wersja
+
